@@ -1,0 +1,28 @@
+{
+  "name": "converter_test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubysattar/converter_test.git"
+  },
+  "keywords": [
+    "converter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubysattar/converter_test/issues"
+  },
+  "homepage": "https://github.com/rubysattar/converter_test#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "request": "^2.88.2"
+  }
+}
